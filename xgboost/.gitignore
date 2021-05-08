@@ -1,0 +1,5 @@
+## file extension format to ignore
+*.csv
+*.Rhistory
+*.txt
+xgboost_spark_iris_local_prac.scala
