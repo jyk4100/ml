@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 import xgboost as xgb
 from xgboost import XGBClassifier
-xgb.__version__ ## 1.3.3
+xgb.__version__ ## 1.4.1
 
 ## set path and read data
 os.chdir('''C:/Users/Kim Jungyoon/Documents/2.study/ml/xgboost/''')
